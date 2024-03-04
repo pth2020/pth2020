@@ -9,5 +9,5 @@ I have learned how to effectively use git and GitHub to work with my repositorie
 - 🤔 I’m looking to advance my career in software development.
 - 💬 Ask me about programming in Python, Java, Kotlin and Android App Develpment. 
 - 📫 How to reach me: # Email: paultesfa@gmail.com    # LinkedIn: linkedin.com/in/paulos-tesfazghi-59098318a
-- ⚡ Fun fact: Loves to watch football and movies on Netflix, enjoys socialising, reading news/books and analysis about technology.
+- ⚡ Fun fact: Love to watch football, watch movies on Netflix, enjoy socialising, reading news/books and analysis about technology.
 
