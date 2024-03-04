@@ -8,5 +8,5 @@ My name is Paulos Tesfazghi. I am a software engineer with a first degree in mat
 - 🤔 I’m looking to advance my career in software development.
 - 💬 Ask me about programming in Python, Java, Kotlin and Android App Develpment. 
 - 📫 How to reach me: # Email: paultesfa@gmail.com    # LinkedIn: linkedin.com/in/paulos-tesfazghi-59098318a
-- ⚡ Fun fact: Loves to watch football and movies on Netflix, enjoy socialising, read news/books and analysis about technology.
+- ⚡ Fun fact: Loves to watch football and movies on Netflix, enjoys socialising, reading news/books and analysis about technology.
 
