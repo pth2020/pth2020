@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-Hello! My name is Paulos Tesfazghi. I am a self-directed and motivated software engineer with mathematics, statistsics and computing background.
+Hello! My name is Paulos Tesfazghi. I am a passionate and self-motivated software engineer with mathematics, statistsics and computing background.
 I completed a software engineering bootcamp course that has ultimately helped me to become proficient in python, git, github and software 
 development. I am now learning Django web framework to go along with my python skills to becoming a well-rounded web developer.
 
