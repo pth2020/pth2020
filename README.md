@@ -16,6 +16,7 @@ Other skills: Android App Development
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
 
 <h2>Projects </h2>
+
 * Finance calculator - A program written in python that calculates the amount of money a customer earns on their investment (simple or compound) 
   with a fixed interest rate at the end of a certain number of years. It also calculates the amount of monthly repayment on a bond (house loan) 
   with a fixed interest rate for the extent of months a user wants to take. 
@@ -29,5 +30,6 @@ Other skills: Android App Development
   I am planning to develop this program further using GUI, making it more user freindly.   
    
 <h2>How to reach me ...</h2>
-* Email - paultesfa@gmail.com
+
+* Email: paultesfa@gmail.com
 * LinkedIn: linkedin.com/in/paulos-tesfazghi-59098318a
