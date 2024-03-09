@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-My name is Paulos Tesfazghi. I am a software engineer with a first degree in mathematics and statistics and a masters degree in computing.
+<h1> Profile </h1>
+
+My name is Paulos Tesfazghi. I am a software engineer with mathematics, statistsics and computing background.
+
+
+I am a software engineer with a first degree in mathematics and statistics and a masters degree in computing.
 I have learned how to effectively use git and GitHub to work with my repositories.
+
+
+
 
 - 🔭 I’m currently working as a maths lecturer in a further education college. 
 - 🌱 I’m currently learning advanced level programming in python after completing a bootcamp course in software engineering with HyperionDev. 
