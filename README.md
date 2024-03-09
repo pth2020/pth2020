@@ -40,5 +40,5 @@ development. I am now learning Django web framework to go along with my python s
 * [LinkedIn](https://www.linkedin.com/in/paulos-tesfazghi-59098318a/)
 
 
-[![GitHub Streak]](https://github-readme-streak-stats.herokuapp.com/?user=pth2020)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pth2020&theme=dark&background=000000)](https://git.io/streak-stats)
 
