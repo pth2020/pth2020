@@ -6,7 +6,7 @@ Hello! My name is Paulos Tesfazghi. I am a self-directed and motivated software 
 I completed a software engineering bootcamp course that has ultimately helped me to become proficient in python, git, github and software 
 development. I am now learning Django web framework to go along with my python skills and becoming a well-rounded web developer.
 
-<h2> Skills </h2>
+<h3> Skills </h3>
 
 **Programming Languages:** Python, Java, Kotlin
 
@@ -16,11 +16,11 @@ development. I am now learning Django web framework to go along with my python s
 
 **Other skills:** Android App Development
 
-<h2>Education</h2>
+<h3>Education</h3>
 
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
 
-<h2>Projects </h2>
+<h3>Projects </h3>
 
 * ***[Finance calculator](https://github.com/pth2020/finalCapstone/blob/master/task_manager.py)*** - A program written in python that calculates the amount of money a customer earns on their investment (simple or compound) 
   with a fixed interest rate at the end of a certain number of years. It also calculates the amount of monthly repayment on a bond (house loan) 
@@ -34,7 +34,7 @@ development. I am now learning Django web framework to go along with my python s
   For example, fractions, percentages from Number etc. Questions and answers are stored in dictionary data structures. The program prints out percentage score at the end.
   I am planning to develop this program further using GUI, making it more user freindly.   
    
-<h2>How to reach me ...</h2>
+<h3>How to reach me ...</h3>
 
 * Email: paultesfa@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/paulos-tesfazghi-59098318a/)
