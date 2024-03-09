@@ -6,7 +6,7 @@ Hello! My name is Paulos Tesfazghi. I am a self-directed and motivated software 
 I completed a software engineering bootcamp course that has ultimately helped me to become proficient in python, git, github and software 
 development. I am now learning Django web framework to go along with my python skills and becoming a well-rounded web developer.
 
-<h2></h2> Skills </h2>
+<h2> Skills </h2>
 
 **Programming Languages:** Python, Java, Kotlin
 
