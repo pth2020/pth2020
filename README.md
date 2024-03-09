@@ -7,10 +7,11 @@ I completed a software engineering bootcamp course that has ultimately helped me
 development. I am now learning Django web framework to go along with my python skills and becoming a well-rounded web developer.
 
 <h2> Skills </h2>
-Programming Languages: Python, Java, Kotlin
-Scripts: HTML, CSS, SQL
-Technologies: Git, GitHub, VS Code, Android Studio
-Other skills: Android App Development
+
+**Programming Languages:** Python, Java, Kotlin
+**Script Languages:**  HTML, CSS, SQL
+**Technologies:**  Git, GitHub, VS Code, Android Studio
+**Other skills:** Android App Development
 
 <h2>Education</h2>
 
