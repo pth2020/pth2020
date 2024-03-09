@@ -13,6 +13,7 @@ Technologies: Git, GitHub, VS Code, Android Studio
 Other skills: Android App Development
 
 <h2>Education</h2>
+
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
 
 <h2>Projects </h2>
@@ -32,4 +33,5 @@ Other skills: Android App Development
 <h2>How to reach me ...</h2>
 
 * Email: paultesfa@gmail.com
-* LinkedIn: linkedin.com/in/paulos-tesfazghi-59098318a
+* [LinkedIn](https://www.linkedin.com/in/paulos-tesfazghi-59098318a/)
+
