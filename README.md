@@ -9,8 +9,11 @@ development. I am now learning Django web framework to go along with my python s
 <h2> Skills </h2>
 
 **Programming Languages:** Python, Java, Kotlin
+
 **Script Languages:**  HTML, CSS, SQL
+
 **Technologies:**  Git, GitHub, VS Code, Android Studio
+
 **Other skills:** Android App Development
 
 <h2>Education</h2>
