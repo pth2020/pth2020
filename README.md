@@ -29,10 +29,7 @@ development. I am now learning Django web framework towards becoming a well-roun
 * ***[Task Manager](https://github.com/pth2020/Bootcamp-Portfolio/blob/main/Capstone%20Project%201/finance_calculators.py)*** - A program written in python that allows an admin to register users and create tasks for users, users able to view all tasks,
   generate reports, display statistics. All data is written to and read from text files.
 
-* ***[GCSE Quiz](https://github.com/pth2020/Own-Projects/blob/main/GCSE%20maths%20quiz/quiz.py)*** - A program written in python that allows a user to take a GCSE maths quiz. A user is provided with options to choose from a list of
-  GCSE maths areas (Number, Algebra, Geometry, Ratio and Proportion, and Data & Statistics) and then questions are presented under each sub topic from each area.
-  For example, fractions, percentages from Number etc. Questions and answers are stored in dictionary data structures. The program prints out percentage score at the end.
-  I am planning to develop this program further using GUI, making it more user freindly.   
+* ***[GCSE Quiz](https://github.com/pth2020/Own-Projects/blob/main/GCSE%20maths%20quiz/quiz.py)*** - A program written in python that allows a user to take a GCSE maths quiz. A user is provided with options to choose from a list of GCSE maths areas (Number, Algebra, Geometry, Ratio and Proportion, and Data & Statistics) and then questions are presented under each subtopic from each area. For example, fractions, percentages from Number etc. Questions and answers are stored in dictionary data structures. The program prints out percentage score at the end. I am planning to develop this program further using GUI, making it more user friendly.
    
 <h2>How to reach me ...</h2>
 
