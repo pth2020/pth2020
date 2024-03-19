@@ -8,7 +8,7 @@ development. I am now learning Django web framework towards becoming a well-roun
 
 <h2> Skills </h2>
 
-**Programming Languages:** Python, Java, Kotlin
+**Languages:** Python, Java, Kotlin
 
 **Script Languages:**  HTML, CSS, SQL
 
