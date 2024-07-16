@@ -4,7 +4,8 @@
 
 Hello! My name is Paulos Tesfazghi. I am a passionate and self-motivated software engineer with mathematics, statistsics and computing background.
 I completed a software engineering bootcamp course that has ultimately helped me to become proficient in python, git, github and software 
-development. I am now learning Django web framework towards becoming a well-rounded web developer.
+development. Since completing the bootcamp course, I have been working on a project using Django web framework, JavaScript, CSS and HTML.
+I have developed a dynamic educational website using the aformentioned technologies. The link can be found ***[here](https://github.com/pth2020/gcse_project/tree/master)***.
 
 <h2> Skills </h2>
 
