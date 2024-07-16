@@ -7,7 +7,7 @@ Hello! My name is Paulos Tesfazghi. I am a passionate and self-motivated softwar
 
 <h2> Skills </h2>
 
-**Languages:** Python, Java, Kotlin
+**Languages:** Python, Django, Java, Kotlin
 
 **Script Languages:**  HTML, CSS, SQL
 
