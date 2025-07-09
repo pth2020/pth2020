@@ -4,13 +4,13 @@
 
 Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven **Software Engineer** with a strong foundation in mathematics and computing. My journey into software development accelerated through hands-on experience developing three full-fledged projects and completing an intensive **Software Engineering Bootcamp**. This experience helped me become proficient in:
 
-**<li>Python, Django</li>**
+<li>Python, Django</li>
 
-**<li>JavaScript, HTML, CSS</li>**
+<li>JavaScript, HTML, CSS</li>
 
-**<li>Git & GitHub</li>**
+<li>Git & GitHub</li>
 
-**<li>Agile software development practices</li>**
+<li>Agile software development practices</li>
 
 
 <h2>Projects and Experience</h2>
