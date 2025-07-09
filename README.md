@@ -23,9 +23,21 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 **<li>Automate data entry and customer tracking</li>**
 
-**<li>Generate reports and visualize patterns in business activities<li>**
+**<li>Generate reports and visualise patterns in business activities<li>**
 
 **<li>Improve operational efficiency without relying on cloud infrastructure</li>**
+
+<h3>E-commerce website</h3>
+
+An e-commerce webiste built using Django framework, Javascript, HTML, CSS and bootstrap. Among other things, this site allows customers to buy wedding and birthday
+cakes and pay using paypal account. 
+
+**<li>Enables online cutsomers to purchase cakes as reistered or guests users</li>**
+
+**<li>Enables customers to pay online for their purchases using paypal</li>**
+
+
+
 
 
 <h3>GCSE Educational Platform</h3>
