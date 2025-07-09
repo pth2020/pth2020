@@ -23,7 +23,7 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 **<li>Automate data entry and customer tracking</li>**
 
-**<li>Generate reports and visualise patterns in business activities<li>**
+**<li>Generate reports and visualise patterns in business activities</li>**
 
 **<li>Improve operational efficiency without relying on cloud infrastructure</li>**
 
@@ -32,23 +32,31 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 An e-commerce webiste built using Django framework, Javascript, HTML, CSS and bootstrap. Among other things, this site allows customers to buy wedding and birthday
 cakes and pay using paypal account. 
 
-**<li>Enables online cutsomers to purchase cakes as reistered or guests users</li>**
+A fully functional e-commerce website built using the Django web framework, JavaScript, HTML, CSS, and Bootstrap.
+This project allows customers to browse, select, and purchase wedding and birthday cakes directly from the website, with integrated PayPal payment functionality.
 
-**<li>Enables customers to pay online for their purchases using paypal</li>**
+**Key Features:**
 
+**<li>Supports both guest checkout and registered user accounts</li>**
 
+**<li>Customers can securely pay online via PayPal</li>**
 
+**<li>Dynamic product listing with images, descriptions, and pricing</li>**
+
+**<li>Shopping cart functionality</li>**
+
+**<li>Order confirmation and notifications</li>**
 
 
 <h3>GCSE Educational Platform</h3>
 
 
+<h2>GCSE Educational Platform </h2>
 
 <h2>Education</h2>
 
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
 
-<h2>GCSE Educational Platform </h2>
 
 
 🔨 Projects
