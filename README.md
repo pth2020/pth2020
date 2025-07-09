@@ -19,13 +19,13 @@ Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven **Software 
 
 More recently, I developed a standalone CRM (Customer Relationship Management) desktop application using **Python’s Tkinter GUI toolkit.** The app is tailored for **small to medium freight shipping businesses,** helping them:
 
-**<li>Store and retrieve shipment records</li>**
+<li>Store and retrieve shipment records</li>
 
-**<li>Automate data entry and customer tracking</li>**
+<li>Automate data entry and customer tracking</li>
 
-**<li>Generate reports and visualise patterns in business activities</li>**
+<li>Generate reports and visualise patterns in business activities</li>
 
-**<li>Improve operational efficiency without relying on cloud infrastructure</li>**
+<li>Improve operational efficiency without relying on cloud infrastructure</li>
 
 <h3>E-commerce website</h3>
 
@@ -34,15 +34,15 @@ This project allows customers to browse, select, and purchase wedding and birthd
 
 **Key Features:**
 
-**<li>Supports both guest checkout and registered user accounts</li>**
+<li>Supports both guest checkout and registered user accounts</li>
 
-**<li>Customers can securely pay online via PayPal</li>**
+<li>Customers can securely pay online via PayPal</li>
 
-**<li>Dynamic product listing with images, descriptions, and pricing</li>**
+<li>Dynamic product listing with images, descriptions, and pricing</li>
 
-**<li>Shopping cart functionality</li>**
+<li>Shopping cart functionality</li>
 
-**<li>Order confirmation and notifications</li>**
+<li>Order confirmation and notifications</li>
 
 
 <h3>GCSE Educational Platform</h3>
