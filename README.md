@@ -27,6 +27,8 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 <li>Improve operational efficiency without relying on cloud infrastructure</li>
 
+<img></img>
+
 <h3>E-commerce website</h3>
 
 A fully functional e-commerce website built using the Django web framework, JavaScript, HTML, CSS, and Bootstrap.
