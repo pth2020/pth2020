@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven Software Engineer with a strong foundation in mathematics and computing. My journey into software development was accelerated by completing an intensive Software Engineering Bootcamp, where I became proficient in:
+Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven **Software Engineer** with a strong foundation in mathematics and computing. My journey into software development accelerated through hands-on experience developing three full-fledged projects and completing an intensive **Software Engineering Bootcamp**. This experience helped me become proficient in:
 
 **<li>Python, Django</li>**
 
