@@ -45,11 +45,6 @@ This project allows customers to browse, select, and purchase wedding and birthd
 <li>Order confirmation and notifications</li>
 
 
-<h3>GCSE Educational Platform</h3>
-
-
-<h2>GCSE Educational Platform </h2>
-
 <h2>Education</h2>
 
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
