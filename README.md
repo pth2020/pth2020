@@ -2,8 +2,36 @@
 
 <h2> About me </h2>
 
-Hello! My name is Paulos Tesfazghi. I am a passionate and self-motivated software engineer with a background in mathematics, statistics, and computing. I completed a software engineering bootcamp course that has helped me become proficient in Python, Git, GitHub, and software development. Since completing the bootcamp, I have been working on a project using the Django web framework, JavaScript, CSS, and HTML. I have developed a dynamic educational website using these technologies. A showcase of the website can be found ***[here](https://lnkd.in/eJVCApjm)***.
-<p>https://github.com/pth2020/gcse_project/tree/master
+Hello! My name is Paulos Tesfazghi. I am a passionate and self-motivated software engineer with a background in mathematics, statistics, and computing. I completed a software engineering bootcamp course that has helped me become proficient in Django, Python, CSS, HTML, Javascript, Git, GitHub, and software development. Since completing the bootcamp, I have been working on a project using the Django web framework, JavaScript, CSS, and HTML. I have developed a dynamic educational website using these technologies. A showcase of the website can be found ***[here](https://lnkd.in/eJVCApjm)***.
+<p>https://github.com/pth2020/gcse_project/tree/master.
+
+Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven Software Engineer with a strong foundation in mathematics and computing. My journey into software development was accelerated by completing an intensive Software Engineering Bootcamp, where I became proficient in:
+
+<li>**Python, Django**</li>
+
+<li>**JavaScript, HTML, CSS**</li>
+
+<li>**Git & GitHub**</li>
+
+<li>**Agile software development practices**</li>
+
+
+<h2>Projects and Experience</h2>
+
+<h3>**CRM Desktop Application for Freight Shipping**</h3>  
+
+More recently, I developed a standalone CRM (Customer Relationship Management) desktop application using Python’s Tkinter GUI toolkit. The app is tailored for small to medium freight shipping businesses, helping them:
+
+<li>Store and retrieve shipment records</li>
+
+<li>Automate data entry and customer tracking</li>
+
+<li>Generate reports and visualize patterns in business activities<li>
+
+<li>Improve operational efficiency without relying on cloud infrastructure</li>
+
+
+
 
 <h2> Skills </h2>
 
