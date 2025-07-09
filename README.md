@@ -27,7 +27,7 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 <li>Improve operational efficiency without relying on cloud infrastructure</li>
 
-<img></img>
+<img>xx</img>
 
 <h3>E-commerce website</h3>
 
