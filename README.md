@@ -15,36 +15,34 @@ Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven Software En
 
 <h2>Projects and Experience</h2>
 
-<h3>**CRM Desktop Application for Freight Shipping**</h3>  
+<h3>CRM Desktop Application for Freight Shipping</h3>  
 
-More recently, I developed a standalone CRM (Customer Relationship Management) desktop application using Python’s Tkinter GUI toolkit. The app is tailored for small to medium freight shipping businesses, helping them:
+More recently, I developed a standalone CRM (Customer Relationship Management) desktop application using **Python’s Tkinter GUI toolkit.** The app is tailored for **small to medium freight shipping businesses,** helping them:
 
-<li>Store and retrieve shipment records</li>
+**<li>Store and retrieve shipment records</li>**
 
-<li>Automate data entry and customer tracking</li>
+**<li>Automate data entry and customer tracking</li>**
 
-<li>Generate reports and visualize patterns in business activities<li>
+**<li>Generate reports and visualize patterns in business activities<li>**
 
-<li>Improve operational efficiency without relying on cloud infrastructure</li>
-
-
+**<li>Improve operational efficiency without relying on cloud infrastructure</li>**
 
 
-<h2> Skills </h2>
+<h3>GCSE Educational Platform</h3>
 
-**Languages:** Python, Django, Java, Kotlin
 
-**Script Languages:**  HTML, CSS, SQL
-
-**Technologies:**  Git, GitHub, VS Code, Android Studio
-
-**Other skills:** Android App Development
 
 <h2>Education</h2>
 
 * Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
 
-<h2>Projects </h2>
+<h2>GCSE Educational Platform </h2>
+
+
+🔨 Projects
+🎓 
+A dynamic Django web application to support GCSE Maths learning, with interactive topics and quizzes.
+📸 Showcase: View demo
 
 * ***[Finance calculator](https://github.com/pth2020/Bootcamp-Portfolio/blob/main/Capstone%20Project%201/finance_calculators.py)*** - A program written in python that calculates the amount of money a customer earns on their investment (simple or compound) 
   with a fixed interest rate at the end of a certain number of years. It also calculates the amount of monthly repayment on a bond (house loan) 
