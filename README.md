@@ -27,7 +27,6 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 <li>Improve operational efficiency without relying on cloud infrastructure</li>
 
-![Alt text](image_url)
 
 <h3>E-commerce website</h3>
 
@@ -46,27 +45,12 @@ This project allows customers to browse, select, and purchase wedding and birthd
 
 <li>Order confirmation and notifications</li>
 
+<h3>GCSE maths learning web application</h3>
 
-<h2>Education</h2>
+A dynamic Django web application to support GCSE maths learning, with interactive topics and quizzes.
 
-* Software Engineering at HyperionDev Bootcamp - Dec'23 - Mar'24
-
-
-
-🔨 Projects
-🎓 
-A dynamic Django web application to support GCSE Maths learning, with interactive topics and quizzes.
 📸 Showcase: View demo
-
-* ***[Finance calculator](https://github.com/pth2020/Bootcamp-Portfolio/blob/main/Capstone%20Project%201/finance_calculators.py)*** - A program written in python that calculates the amount of money a customer earns on their investment (simple or compound) 
-  with a fixed interest rate at the end of a certain number of years. It also calculates the amount of monthly repayment on a bond (house loan) 
-  with a fixed interest rate for the extent of months a user wants to take. 
-
-* ***[Task Manager](https://github.com/pth2020/Bootcamp-Portfolio/blob/main/capstone_project2/task_manager.py))*** - A program written in python that allows an admin to register users and create tasks for users, users able to view all tasks,
-  generate reports, display statistics. All data is written to and read from text files.
-
-* ***[GCSE Quiz](https://github.com/pth2020/gcse_project/tree/master)*** - A program written in python that allows a user to take a GCSE maths quiz. A user is provided with options to choose from a list of GCSE maths areas (Number, Algebra, Geometry, Ratio and Proportion, and Data & Statistics) and then questions are presented under each subtopic from each area. For example, fractions, percentages from Number etc. Questions and answers are stored in dictionary data structures. The program prints out percentage score at the end. I am planning to develop this program further using GUI, making it more user friendly.
-   
+ 
 <h2>How to reach me ...</h2>
 
 * Email: paultesfa@gmail.com
