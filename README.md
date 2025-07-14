@@ -34,7 +34,9 @@ More recently, I developed a standalone CRM (Customer Relationship Management) d
 
 <h3>E-commerce website</h3>
 
-[Online-Cake-Sale  Video/images](https://www.loom.com/share/c6daa58812ed412bb27e655c16d382c1)
+[Online-Cake-Shop  Video/images](https://www.loom.com/share/c6daa58812ed412bb27e655c16d382c1)
+
+[code]()
 
 A fully functional e-commerce website built using the Django web framework, JavaScript, HTML, CSS, and Bootstrap.
 This project allows customers to browse, select, and purchase wedding and birthday cakes directly from the website, with integrated PayPal payment functionality.
