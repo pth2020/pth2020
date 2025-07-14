@@ -19,7 +19,7 @@ Hello! My name is Paulos Tesfazghi. I'm a passionate and self-driven **Software 
 
 [SeaFreight Video/images](https://github.com/pth2020/SeaFreightCRM)
 
-[Video]( https://github.com/pth2020/SeaFreightCRM/tree/master)
+[Code]( https://github.com/pth2020/SeaFreightCRM/tree/master)
 
 More recently, I developed a standalone CRM (Customer Relationship Management) desktop application using **Python’s Tkinter GUI toolkit.** The app is tailored for **small to medium freight shipping businesses,** helping them:
 
