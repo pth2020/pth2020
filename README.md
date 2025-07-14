@@ -57,7 +57,7 @@ This project allows customers to browse, select, and purchase wedding and birthd
 
 A dynamic Django web application to support GCSE maths learning, with interactive topics and quizzes.
 
-📸 Showcase: View demo
+[code](https://github.com/pth2020/gcse_project/tree/master)
  
 <h2>How to reach me ...</h2>
 
